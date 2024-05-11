@@ -1,0 +1,53 @@
+body{background-color: aquamarine;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant-caps: petite-caps;
+    align-items: center;
+    }
+    
+    .content{
+        width: 70%;
+        margin-left: 10%;
+    }
+
+    img {
+        width: 300px;
+        height: 300px;
+  text-size-adjust: 100;
+    }
+
+    .header{
+        display: flex;
+    }
+
+    .container{
+        margin: 0 auto;        ;
+    }
+    
+    .header .container{
+        display: flex;
+        gap: 3rem;
+    }
+
+.about h4{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.about p{
+    text-align: center;
+}
+
+.skills-hobbies{
+ display: flex;
+ justify-content: space-between;   
+}
+
+.contact{text-align: center;
+margin-bottom: 10px
+    ;}
+
+
+   
+
+
